@@ -1,0 +1,15 @@
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.csproj.AssemblyReference.cache
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.AssemblyInfoInputs.cache
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.AssemblyInfo.cs
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.csproj.CoreCompileInputs.cache
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/bin/Debug/net7.0/task63
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/bin/Debug/net7.0/task63.deps.json
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/bin/Debug/net7.0/task63.runtimeconfig.json
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/bin/Debug/net7.0/task63.dll
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/bin/Debug/net7.0/task63.pdb
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.dll
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/refint/task63.dll
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.pdb
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/task63.genruntimeconfig.cache
+/Users/juliashtih/Documents/C#/Sem9 C#/task63/obj/Debug/net7.0/ref/task63.dll
